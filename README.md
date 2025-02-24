@@ -1,4 +1,4 @@
-# Crypto Collector Game
+# DINO Coins
 
 A simple game where players collect virtual coins while avoiding obstacles. Built with Python and Pygame.
 
